@@ -33,6 +33,16 @@ It helps to read a message queue.
 *msgctl()-
 It helps to perform the control operation on a message queue.
 
+## **Message Broker RabbitMQ**
+
+RabbitMQ is one of the most widely used message brokers, it acts as the message broker, “the mailman”, a microservice architecture needs.
+RabbitMQ consists of:
+1. producer — the client that creates a message
+2. consumer — receives a message
+3. queue — stores messages
+3. exchange — enables to route messages and send them to queues
+
+
 ## **Popular Software for Messaging Queues-**
 
 1.MuleSoft Anypoint Platform 
