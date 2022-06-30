@@ -1,9 +1,9 @@
-### **Messaging Queues**
+# **Messaging Queues**
 
 ## **What are Messaging Queues?**
 Message queuing makes it possible for applications to communicate asynchronously, by sending messages to each other via a queue. A message queue provides temporary storage between the sender and the receiver so that the sender can keep operating without interruption when the destination program is busy or not connected. Asynchronous processing allows a task to call a service, and move on to the next task while the service processes the request at its own pace.
 
-![alt text](https://www.cloudamqp.com/img/blog/thumb-mq.jpg)
+![Image](https://www.cloudamqp.com/img/blog/thumb-mq.jpg)
 
 A queue is a line of things waiting to be handled — in sequential order starting at the beginning of the line. A message queue is a queue of messages sent between applications. It includes a sequence of work objects that are waiting to be processed.
 
@@ -11,7 +11,7 @@ A message is the data transported between the sender and the receiver applicatio
 
 The basic architecture of a message queue is simple, there are client applications called producers that create messages and deliver them to the message queue. Another application, called a consumer, connects to the queue and gets the messages to be processed. Messages placed onto the queue are stored until the consumer retrieves them.
 
-![alt text](https://miro.medium.com/max/1230/0*kworctnDN9P4jzZf.png)
+![Image](https://miro.medium.com/max/1230/0*kworctnDN9P4jzZf.png)
 
 ## **Why they are used?**
 
