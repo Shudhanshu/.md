@@ -1,4 +1,4 @@
-### Messaging Queues
+### **Messaging Queues**
 
 ## **What are Messaging Queues?**
 Message queuing makes it possible for applications to communicate asynchronously, by sending messages to each other via a queue. A message queue provides temporary storage between the sender and the receiver so that the sender can keep operating without interruption when the destination program is busy or not connected. Asynchronous processing allows a task to call a service, and move on to the next task while the service processes the request at its own pace.
