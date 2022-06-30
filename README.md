@@ -1,4 +1,4 @@
-Messaging Queues
+### Messaging Queues
 
 ## **What are Messaging Queues?**
 Message queuing makes it possible for applications to communicate asynchronously, by sending messages to each other via a queue. A message queue provides temporary storage between the sender and the receiver so that the sender can keep operating without interruption when the destination program is busy or not connected. Asynchronous processing allows a task to call a service, and move on to the next task while the service processes the request at its own pace.
@@ -35,25 +35,25 @@ It helps to perform the control operation on a message queue.
 
 ## **Popular Software for Messaging Queues-**
 
-MuleSoft Anypoint Platform 
-IBM MQ 
-Apache Kafka
-Apache Qpid 
-Azure Scheduler
-RabbitMQ
-Azure Queue Storage
-TIBCO Rendezvous
-IBM Cloud Pak for Integration
-Google Cloud Pub/Sub
+1.MuleSoft Anypoint Platform 
+2.IBM MQ 
+3.Apache Kafka
+4.Apache Qpid 
+5.Azure Scheduler
+6.RabbitMQ
+7.Azure Queue Storage
+8.TIBCO Rendezvous
+9.IBM Cloud Pak for Integration
+10.Google Cloud Pub/Sub
 
-## **5. References**
+## **References**
 
-https://www.cloudamqp.com/blog/what-is-message-queuing.html
+*https://www.cloudamqp.com/blog/what-is-message-queuing.html
 
-https://www.g2.com/categories/message-queue-mq
+*https://www.g2.com/categories/message-queue-mq
 
-https://www.youtube.com/watch?v=T__LsWRgNmY
+*https://www.youtube.com/watch?v=T__LsWRgNmY
 
-https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22
+*https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22
 
 
