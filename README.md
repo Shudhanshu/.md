@@ -58,12 +58,12 @@ RabbitMQ consists of:
 
 ## **References**
 
-*https://www.cloudamqp.com/blog/what-is-message-queuing.html
+* https://www.cloudamqp.com/blog/what-is-message-queuing.html
 
-*https://www.g2.com/categories/message-queue-mq
+* https://www.g2.com/categories/message-queue-mq
 
-*https://www.youtube.com/watch?v=T__LsWRgNmY
+* https://www.youtube.com/watch?v=T__LsWRgNmY
 
-*https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22
+* https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22
 
 
