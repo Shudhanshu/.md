@@ -33,7 +33,7 @@ It helps to read a message queue.
 * msgctl()-
 It helps to perform the control operation on a message queue.
 
-## **Message Broker RabbitMQ**
+## **Message Broker RabbitMQ-**
 
 RabbitMQ is one of the most widely used message brokers, it acts as the message broker, “the mailman”, a microservice architecture needs.
 RabbitMQ consists of:
@@ -56,7 +56,7 @@ RabbitMQ consists of:
 9. IBM Cloud Pak for Integration
 10. Google Cloud Pub/Sub
 
-## **References**
+## **References-**
 
 * https://www.cloudamqp.com/blog/what-is-message-queuing.html
 
