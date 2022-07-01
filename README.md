@@ -21,16 +21,16 @@ A message queue provides an asynchronous communications protocol, which is a sys
 
 ## **Major System Calls-**
 
-*msget()- 
+* msget()- 
 We used this call to create a new queue or to open an existing queue.
 
-*msgsnd()-
+* msgsnd()-
 It helps to write a message queue.
 
-*msgrcv()-
+* msgrcv()-
 It helps to read a message queue.
 
-*msgctl()-
+* msgctl()-
 It helps to perform the control operation on a message queue.
 
 ## **Message Broker RabbitMQ**
