@@ -45,16 +45,16 @@ RabbitMQ consists of:
 
 ## **Popular Software for Messaging Queues-**
 
-1.MuleSoft Anypoint Platform 
-2.IBM MQ 
-3.Apache Kafka
-4.Apache Qpid 
-5.Azure Scheduler
-6.RabbitMQ
-7.Azure Queue Storage
-8.TIBCO Rendezvous
-9.IBM Cloud Pak for Integration
-10.Google Cloud Pub/Sub
+1. MuleSoft Anypoint Platform 
+2. IBM MQ 
+3. Apache Kafka
+4. Apache Qpid 
+5. Azure Scheduler
+6. RabbitMQ
+7. Azure Queue Storage
+8. TIBCO Rendezvous
+9. IBM Cloud Pak for Integration
+10. Google Cloud Pub/Sub
 
 ## **References**
 
